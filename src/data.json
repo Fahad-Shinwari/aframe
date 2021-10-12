@@ -1,0 +1,41 @@
+{
+    "places": [
+      {
+        "_id": "place1",
+        "image": "./assets/city_center.jpg",
+        "positionA": "4 1.8 4",
+        "positionB" : "-1.5 1.8 -3"
+      },
+      {
+        "_id": "place2",
+        "image": "./assets/food_avenue.jpg",
+        "positionA": "4 1.8 4",
+        "positionB" : "-1.5 1.8 -3"
+      },
+      {
+        "_id": "place3",
+        "image": "./assets/kat_church.jpg",
+        "positionA": "4 1.8 4",
+        "positionB" : "-1.5 1.8 -3"
+      },
+      {
+        "_id": "place4",
+        "image": "./assets/khmeln_park.jpg",
+        "positionA": "4 1.8 4",
+        "positionB" : "-1.5 1.8 -3"
+      },
+      {
+        "_id": "place5",
+        "image": "./assets/popudrenko_park.jpg",
+        "positionA": "4 1.8 4",
+        "positionB" : "-1.5 1.8 -3"
+      },
+      {
+        "_id": "place6",
+        "image": "./assets/val.jpg",
+        "positionA": "4 1.8 4",
+        "positionB" : "-1.5 1.8 -3"
+      }
+    ]
+  }
+  
